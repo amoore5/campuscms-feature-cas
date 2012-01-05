@@ -1,0 +1,8 @@
+core = "7.x"
+dependencies[] = "cas"
+dependencies[] = "cas_attributes"
+description = "This enables the cas module for this site."
+name = "CAS Feature"
+package = "Features"
+project = "campuscms_feature_cas"
+version = "7.x-1.0"
