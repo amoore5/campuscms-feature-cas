@@ -4,7 +4,7 @@ api = 2
 
 ; Contrib modules
 projects[cas][version] = 1.x-dev
-projects[cas][patch] = "http://drupal.org/files/1394666-cas_library_path-5.patch"
+projects[cas][patch][1394666-cas_library_path-5.patch] = "http://drupal.org/files/1394666-cas_library_path-5.patch"
 projects[cas_attributes] = 1.0-beta2
 ; CAS
 libraries[cas][download][type] = "get"
