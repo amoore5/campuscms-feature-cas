@@ -30,7 +30,7 @@ function campuscms_feature_cas_strongarm() {
   $strongarm->name = 'cas_pages';
   $strongarm->value = 'admin
 admin/*
-user/login';
+user';
   $export['cas_pages'] = $strongarm;
 
   return $export;
