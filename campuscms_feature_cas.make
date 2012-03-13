@@ -20,5 +20,5 @@ projects[cas_attributes][patch][1400466-d7-4.patch] = http://drupal.org/files/14
 
 ; CAS
 libraries[cas][download][type] = "get"
-libraries[cas][download][url] = "http://downloads.jasig.org/cas-clients/php/current/CAS-1.2.2.tgz"
+libraries[cas][download][url] = "https://github.com/downloads/Jasig/phpCAS/CAS-1.2.2.tgz"
 libraries[cas][directory_name] = "cas"
